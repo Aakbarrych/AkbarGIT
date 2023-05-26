@@ -6,13 +6,15 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
     // task2
     // task1
-    // sjdfskjgkn
+    // bdshjjs
+    // dgsgsgs
+    // sgjskbjk
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    // task2
-    // task2
+    // jssjgjsg
     // task1
+    // sjhgjsglk
     // bzfgahkosk
 }
